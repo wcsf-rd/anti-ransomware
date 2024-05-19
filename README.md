@@ -1,3 +1,4 @@
+# COMING SOON
 # Antiransomware / FileMonitor
 
 AdrenalineRX is designed to detect and intervene when a ransomware, which has managed to evade traditional security measures, begins to encrypt the hard disk. This approach allows AdrenalineRX to offer an additional level of protection against ransomware.
