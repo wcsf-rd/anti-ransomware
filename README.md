@@ -1,5 +1,6 @@
 # Antiransomware / FileMonitor
-Adrenaline RX intervenes after the ransomware has started encrypting your hard drive, which means that the ransomware has managed to bypass traditional security measures.
+
+AdrenalineRX is designed to detect and intervene when a ransomware, which has managed to evade traditional security measures, begins to encrypt the hard disk. This approach allows AdrenalineRX to offer an additional level of protection against ransomware.
 
 ## Download Latest Release
 
