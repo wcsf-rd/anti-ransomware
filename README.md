@@ -24,4 +24,9 @@ AdrenalineRX is designed to detect and intervene when a ransomware, which has ma
 ![image](https://github.com/wcsf-rd/anti-ransomware/assets/170107204/a755921b-1c3e-4c96-a299-9056c6b42b66)
 
 
+## Automatic Shutdown
+
+When AdrenalineRX detects harmful activity, it can automatically initiate the system shutdown function to prevent further damage and safeguard data integrity. This automatic shutdown feature is designed to promptly intervene in critical situations, protecting the system and data from the expansion of damage caused by malicious activities.
+
+
 
