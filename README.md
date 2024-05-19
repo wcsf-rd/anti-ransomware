@@ -19,8 +19,7 @@ Adrenaline RX intervenes after the ransomware has started encrypting your hard d
 <br>
 
 ## Screenshot
-![image](![image](https://github.com/wcsf-rd/anti-ransomware/assets/170107204/a755921b-1c3e-4c96-a299-9056c6b42b66)
-)
+![image](![image](https://github.com/wcsf-rd/anti-ransomware/assets/170107204/a755921b-1c3e-4c96-a299-9056c6b42b66))
 
 
 
