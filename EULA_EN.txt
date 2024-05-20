@@ -1,0 +1,63 @@
+﻿## Author and Distribution Declaration
+
+This software, AdrenalineRX, was developed by Roberto Mazzoni and Federico Bombardi, hereinafter referred to as "The Authors." The distribution, support, and maintenance of the software are managed by the World Cyber Security Foundation (WCSF), hereinafter referred to as "The Foundation."
+
+The Authors have granted the Foundation the right to distribute this software under the terms set forth in this End User License Agreement (EULA). All rights, titles, and interests related to the software, including but not limited to copyrights, remain the property of The Authors.
+
+The Foundation acts as an authorized distributing entity and not as the owner of the software. The Foundation is not responsible for any claims, damages, or liabilities arising from the use of the software, except as otherwise specified in the terms of this EULA.
+
+
+## Adrenaline RX End User License Agreement (EULA)
+
+This End User License Agreement ("EULA") is a legal agreement between you (the user) and the authors of the software, Mazzoni Roberto and Federico Bombardi. This EULA governs the acquisition and use of our "Adrenaline RX" software ("Software"), which can be obtained directly from us or from our online page.
+
+## 1. Acceptance of Agreement
+
+By clicking "Accept" or installing and/or using the Software, you confirm acceptance of the Software and agree to be bound by the terms of this EULA. If you are entering into this EULA on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions.
+
+## 2. License Grant
+
+We grant you a personal, non-transferable, and non-exclusive license to use the Software on a single (1) device owned by you and for non-commercial use, in accordance with the terms of this EULA. You are responsible for ensuring that your device meets the minimum requirements of the Adrenaline Software.
+
+## 3. Primary Use
+
+The Software is intended exclusively for personal use by private users. The use of the Software for any other purpose, including but not limited to commercial, governmental, or institutional purposes, is expressly prohibited.
+
+## 4. Usage Restrictions
+
+The use of the Software is strictly limited to private users for personal use. All other uses are expressly excluded without exception. This includes, but is not limited to, the use of the Software by public entities, non-profit organizations, commercial businesses, educational institutions, and any other entity or individual outside of a private user for personal use.
+
+## 5. Limitations
+
+- Modify, decompile, or reverse-engineer the Software.
+- Distribute, sublicense, or transfer the Software to third parties.
+- Use the Software for illegal or harmful purposes.
+- Remove or alter any copyright notice or proprietary information.
+
+## 6. Intellectual Property
+
+We (Roberto Mazzoni and Federico Bombardi) retain all rights, title, and interest in the Software, including intellectual property rights. We reserve the right to license the Software to third parties.
+
+## 7. Distribution
+
+The Adrenaline RX software is available exclusively for download from the official project page on GitHub. The user agrees to use the software only after obtaining it from this authorized source and not to distribute the software through other means or channels. Any use of the software obtained from unauthorized sources is prohibited and may result in legal action.
+
+## 8. Termination
+
+This EULA shall become effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time by sending us written notice. Additionally, it will terminate immediately in case of your failure to comply with any of the terms of this EULA.
+
+## 9. Applicable Law
+
+This EULA and any dispute arising out of or in connection with this EULA shall be governed and construed in accordance with the laws of Italy.
+
+## 10. Security and Data Privacy
+
+The Software generates data logs in an accessible format. These logs do not contain personal user information but exclusively document the operations performed by the Software. Additionally, the Software does not establish network connections, ensuring that no data is sent or received via the Internet.
+
+## 11. Warranties
+
+Except as otherwise specified in this EULA, the Software is provided "as is" without any warranty, express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, and non-infringement of intellectual property rights. In no event shall Mazzoni Roberto and Federico Bombardi or its suppliers be liable for any damages arising out of the use or inability to use the Software.
+
+## 12. Limitation of Liability
+
+In no event shall Mazzoni Roberto and Federico Bombardi or its suppliers be liable for any damages (including, without limitation, damages for loss of profits, business interruption, loss of information, injury, or death) arising out of the use or inability to use the Software.

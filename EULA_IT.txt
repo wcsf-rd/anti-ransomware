@@ -1,0 +1,70 @@
+﻿## Dichiarazione di Autore e Distribuzione
+
+Questo software, AdrenalineRX, è stato sviluppato da Roberto Mazzoni, Federico Bombardi, qui indicato come "L'Autore". La distribuzione, il supporto e la manutenzione del software sono gestiti da World Cybers Security Foundation (WCSF), qui indicata come "La Fondazione".
+
+L'Autore ha concesso alla Fondazione il diritto di distribuire questo software sotto i termini stabiliti nel presente Contratto di Licenza con l'Utente Finale (EULA). Tutti i diritti, titoli e interessi relativi al software, compresi ma non limitati ai diritti d'autore, rimangono di proprietà dell'Autore.
+
+La Fondazione agisce come entità distributrice autorizzata e non come proprietario del software. La Fondazione non è responsabile per eventuali reclami, danni o responsabilità derivanti dall'uso del software, salvo diversamente specificato nei termini del presente EULA.
+
+
+## Contratto di Licenza per l’Utente Finale (EULA) di Adrenaline RX
+
+Questo Contratto di Licenza per l’Utente Finale (“EULA”) è un accordo legale tra te (utente), e gli autori del software, Mazzoni Roberto e Federico Bombardi. Questo EULA disciplina l’acquisizione e l’utilizzo del nostro software Adrenaline RX (“Software”), che può essere ottenuto direttamente da noi o dalla nostra pagina online.
+
+## 1. Accettazione del Contratto
+
+Facendo clic su “Accetta” o installando e/o utilizzando il Software, confermi l’accettazione del Software e accetti di essere vincolato dai termini di questo EULA. Se stai stipulando questo EULA per conto di una società o di un’altra entità legale, dichiari di avere l’autorità di vincolare tale entità e le sue affiliate a questi termini e condizioni.
+
+## 2. Concessione di Licenza
+
+Ti concediamo una licenza personale, non trasferibile e non esclusiva per utilizzare il Software su un solo (uno)dispositivo di proprietà e ad uso non commerciale, in conformità con i termini di questo EULA. 
+Sei responsabile di garantire che il tuo dispositivo soddisfi i requisiti minimi del Software Adrenaline.
+
+## 3. Uso Primario
+
+Il Software è destinato esclusivamente all'uso personale da parte di utenti privati. L'uso del Software per qualsiasi altro scopo, compreso ma non limitato a scopi commerciali, governativi o istituzionali, è espressamente proibito.
+
+## 4. Restrizioni sull'Uso
+
+L'uso del Software è strettamente limitato agli utenti privati per uso personale. Tutti gli altri usi sono espressamente esclusi senza eccezioni. Questo include, ma non è limitato a, l'uso del Software da parte di enti pubblici, organizzazioni non profit, aziende commerciali, istituzioni educative, e qualsiasi altro ente o individuo al di fuori di un utente privato per uso personale.
+
+
+## 5. Limitazioni
+
+- Modificare, decompilare o eseguire l’ingegneria inversa del Software.
+- Distribuire, concedere in sublicenza o trasferire il Software a terzi.
+- Utilizzare il Software per scopi illegali o dannosi.
+- Rimuovere o alterare qualsiasi avviso di copyright o informazione proprietaria.
+
+
+## 6. Proprietà Intellettuale
+
+Noi (Roberto Mazzoni e Federico Bombardi), manteniamo tutti i diritti, il titolo e l’interesse sul Software, compresi i diritti di proprietà intellettuale. Ci riserviamo il diritto di concedere licenze per l’utilizzo del Software a terzi.
+
+## 7. Distribuzione
+
+Il software Adrenaline RX è disponibile esclusivamente per il download dalla pagina ufficiale del progetto su GitHub. L'utente accetta di utilizzare il software solo dopo averlo ottenuto da questa fonte autorizzata e di non distribuire il software tramite altri mezzi o canali. Qualsiasi uso del software ottenuto da fonti non autorizzate è vietato e può comportare l'applicazione di misure legali.
+
+
+## 8. Terminazione
+
+Questo EULA entra in vigore dalla data in cui utilizzi per la prima volta il Software e continuerà fino alla sua terminazione. Puoi terminarlo in qualsiasi momento inviandoci una comunicazione scritta. Inoltre, terminerà immediatamente in caso di mancato rispetto da parte tua di uno qualsiasi dei termini di questo EULA.
+
+## 9. Legge Applicabile
+
+Questo EULA e qualsiasi controversia derivante da o in connessione con questo EULA saranno disciplinati e interpretati in conformità con le leggi Italiane.
+
+## 10. Sicurezza e Privacy dei Dati
+
+Il Software genera registri di dati (log) in un formato accessibile. Questi registri non contengono informazioni personali dell'utente, ma documentano esclusivamente le operazioni eseguite dal Software. Inoltre, il Software non stabilisce connessioni di rete, garantendo così che nessun dato venga inviato o ricevuto via Internet.
+
+## 11. Garanzie
+
+Salvo quanto diversamente specificato nel presente EULA, il Software viene fornito "così com'è" senza alcuna garanzia, esplicita o implicita, comprese, a titolo esemplificativo, le garanzie di commerciabilità, idoneità per uno scopo particolare e non violazione dei diritti di proprietà intellettuale. In nessun caso Mazzoni Roberto e Federico Bombardi o i suoi fornitori saranno responsabili per eventuali danni derivanti dall'uso o dall'incapacità di utilizzare il Software.
+
+## 12. Limitazioni di Responsabilità
+
+In nessun caso Mazzoni Roberto e Federico Bombardi o i suoi fornitori saranno responsabili per qualsiasi danno (inclusi, a titolo esemplificativo, danni per perdita di profitti, interruzione dell'attività, perdita di informazioni, lesioni o morte) derivanti dall'uso o dall'incapacità di utilizzare il Software.
+
+
+
