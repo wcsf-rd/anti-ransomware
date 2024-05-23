@@ -3,10 +3,11 @@
 
 AdrenalineRX is designed to detect and intervene when a ransomware, which has managed to evade traditional security measures, begins to encrypt the hard disk. This approach allows AdrenalineRX to offer an additional level of protection against ransomware.
 
+💾Unlimited Free for Personal Use Only💾
+
 ## Download Latest Release 
 AdrenalineRX_3.5.0200.2.zip
-<br>
-💾Unlimited Free for Personal Use Only💾
+
 <br>
 - 💡 **Lightweight**<br>
 - 🛠️ **Configurable**<br>
