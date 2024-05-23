@@ -11,7 +11,7 @@ AdrenalineRX is designed to detect and intervene when a ransomware, which has ma
 - 🖥️ **IO_MONITOR Mode** for fine-tuning<br>
 - 📝 **Log Files**<br>
 - 🔄 **Filesystem Activity Rates per Second and Minute**<br>
-- 🧮 **Entropy Analysis**<br>
+- 🧮 **Shannon and BitByte Entropy Analysis**<br>
 - 🧾 **Magic Byte and Extension Verification**<br>
 - 🐤 **Canary Trap**<br>
 - 🛑 **Path exclusion**<br>
