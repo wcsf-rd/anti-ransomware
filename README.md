@@ -8,7 +8,7 @@ AdrenalineRX is designed to detect and intervene when a ransomware, which has ma
 ## Download Latest Release 
 AdrenalineRX_3.5.0200.3.zip
 
-<br>
+## Features
 - 💡 **Lightweight**<br>
 - 🛠️ **Configurable**<br>
 - 🖥️ **IO_MONITOR Mode** for fine-tuning<br>
