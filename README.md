@@ -6,7 +6,7 @@ AdrenalineRX is designed to detect and intervene when a ransomware, which has ma
 💾Unlimited Free for Personal Use Only💾
 
 ## Download Latest Release 
-AdrenalineRX_3.5.0200.2.zip
+AdrenalineRX_3.5.0200.3.zip
 
 <br>
 - 💡 **Lightweight**<br>
@@ -23,6 +23,11 @@ AdrenalineRX_3.5.0200.2.zip
 - 💻 **Written in C++**<br>
 
 <br>
+## Latest Update
+
+3.5.200.3 buxfix in BitByte profile loader
+3.5.200.2 added BitByte Entropy profile
+3.5.200.1 bitMagic anti-bypass
 
 ## Adrenaline RX
 ![image](https://github.com/wcsf-rd/anti-ransomware/assets/170107204/a755921b-1c3e-4c96-a299-9056c6b42b66)
