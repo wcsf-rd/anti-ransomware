@@ -22,7 +22,7 @@ AdrenalineRX_3.5.0200.3.zip
 - 🚀 **Shutdown upon Detection of Encryption Start**<br>
 - 💻 **Written in C++**<br>
 
-<br>
+
 ## Latest Update
 
  3.5.200.3 buxfix in BitByte profile loader<br>
