@@ -25,9 +25,9 @@ AdrenalineRX_3.5.0200.3.zip
 <br>
 ## Latest Update
 
-- 3.5.200.3 buxfix in BitByte profile loader
-- 3.5.200.2 added BitByte Entropy profile
-- 3.5.200.1 bitMagic anti-bypass
+ 3.5.200.3 buxfix in BitByte profile loader<br>
+ 3.5.200.2 added BitByte Entropy profile<br>
+ 3.5.200.1 bitMagic anti-bypass<br>
 
 ## Adrenaline RX
 ![image](https://github.com/wcsf-rd/anti-ransomware/assets/170107204/a755921b-1c3e-4c96-a299-9056c6b42b66)
