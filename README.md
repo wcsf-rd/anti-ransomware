@@ -14,7 +14,7 @@ AdrenalineRX_3.5.0200.3.zip
 - 🖥️ **IO_MONITOR Mode** for fine-tuning<br>
 - 📝 **Log Files**<br>
 - 🔄 **Filesystem Activity Rates per Second and Minute**<br>
-- 🧮 **Shannon and BitByte Entropy Analysis**<br>
+- 🧮 **File Entropy and BitByte Analysis**<br>
 - 🧾 **Magic Byte and Extension Verification**<br>
 - 🐤 **Canary Trap**<br>
 - 🛑 **Path exclusion**<br>
