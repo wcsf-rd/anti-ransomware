@@ -1,7 +1,10 @@
 
 # Antiransomware / FileMonitor
 
-AdrenalineRX is designed to detect and intervene when a ransomware, which has managed to evade traditional security measures, begins to encrypt the hard disk. This approach allows AdrenalineRX to offer an additional level of protection against ransomware.
+AdrenalineRX is designed to detect and intervene when a ransomware, which has managed to evade traditional security measures, begins to encrypt the hard disk. This approach allows AdrenalineRX to offer an additional level of protection against ransomware.<br><br>
+
+
+This software utilizes concepts ( and much more 🚀🚀 ) described in [this research](https://www.scirp.org/journal/paperinformation?paperid=127007)
 
 💾Unlimited Free for Personal Use Only💾
 
@@ -13,7 +16,7 @@ AdrenalineRX_3.5.0200.3.zip
 - 🛠️ **Configurable**<br>
 - 🖥️ **IO_MONITOR Mode** for fine-tuning<br>
 - 📝 **Log Files**<br>
-- 🔄 **Filesystem Activity Rates per Second and Minute**<br>
+- 🔄 **Filesystem IO Activity Rates per Second and Minute**<br>
 - 🧮 **File Entropy and BitByte Analysis**<br>
 - 🧾 **Magic Byte and Extension Verification**<br>
 - 🐤 **Canary Trap**<br>
