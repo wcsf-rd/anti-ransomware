@@ -40,5 +40,8 @@ AdrenalineRX_3.5.0200.3.zip
 
 When AdrenalineRX detects harmful activity, it can automatically initiate the system shutdown function to prevent further damage and safeguard data integrity. This automatic shutdown feature is designed to promptly intervene in critical situations, protecting the system and data from the expansion of damage caused by malicious activities.
 
+## Contact
+[LinkedIn](https://www.linkedin.com/in/roberto-m-7b8314149)
+
 
 
