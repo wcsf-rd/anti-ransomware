@@ -37,7 +37,7 @@ AdrenalineRX_3.5.0200.3.zip
 
 
 ## Test
-encryptTest.exe <aes128|aes256> <folder><br>
+encryptTest.exe aes128|aes256 folder<br>
 example: encryptTest.exe aes256 c:\users\<user>\ransomware\test
 
 
