@@ -41,6 +41,12 @@ encryptTest.exe aes128|aes256 folder<br>
 example: encryptTest.exe aes256 c:\users\username\ransomware\test
 
 
+https://github.com/wcsf-rd/anti-ransomware/assets/170107204/edc093e6-01c9-4820-a89b-ec0a64792f55
+
+
+
+
+
 ## Automatic Shutdown
 
 When AdrenalineRX detects harmful activity, it can automatically initiate the system shutdown function to prevent further damage and safeguard data integrity. This automatic shutdown feature is designed to promptly intervene in critical situations, protecting the system and data from the expansion of damage caused by malicious activities.
