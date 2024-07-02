@@ -36,10 +36,12 @@ AdrenalineRX_3.5.0200.3.zip
 ![image](https://github.com/wcsf-rd/anti-ransomware/assets/170107204/a755921b-1c3e-4c96-a299-9056c6b42b66)
 
 
-## Test
+## Test with my ransomware simulator:
 encryptTest.exe aes128|aes256 folder<br>
 example: encryptTest.exe aes256 c:\users\username\ransomware\test
 
+## Test with Nextron ransomware simulator:
+https://github.com/NextronSystems/ransomware-simulator/releases
 
 https://github.com/wcsf-rd/anti-ransomware/assets/170107204/edc093e6-01c9-4820-a89b-ec0a64792f55
 
