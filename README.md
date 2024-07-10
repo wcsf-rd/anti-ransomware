@@ -42,6 +42,7 @@ example: encryptTest.exe aes256 c:\users\username\ransomware\test
 
 ## Test with Nextron ransomware simulator:
 https://github.com/NextronSystems/ransomware-simulator/releases
+🔻In the video, AdrenalineRX loads an MP3 sound alarm when files begin to be encrypted by ransomware that was not blocked by the MS AV.
 
 https://github.com/wcsf-rd/anti-ransomware/assets/170107204/edc093e6-01c9-4820-a89b-ec0a64792f55
 
